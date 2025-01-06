@@ -3,8 +3,6 @@
 ## Overview
 This is a Python-based Tic Tac Toe game that includes an AI opponent powered by the Minimax algorithm. The game offers an interactive graphical user interface (GUI) built using Pygame, allowing users to play in either player-vs-player or player-vs-AI modes. The AI adapts its strategy based on the selected difficulty level, making it a challenging and enjoyable experience.
 
-**Description:** A fun and interactive Tic Tac Toe game with AI capabilities, designed to challenge players through dynamic gameplay and strategic AI moves.
-
 ## Features
 - **Game Modes:**
   - Player vs Player
