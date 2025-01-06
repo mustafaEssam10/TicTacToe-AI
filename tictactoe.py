@@ -41,7 +41,7 @@ class Board:
 
     def final_state(self, show=False):
 
-        # vertical wins
+        
         for col in range(COLS):
             if self.squares[0][col] == self.squares[1][col] == self.squares[2][col] != 0:
                 if show:
@@ -117,7 +117,7 @@ class AI:
         empty_sqrs = board.get_empty_sqrs()
         idx = random.randrange(0, len(empty_sqrs))
 
-        return empty_sqrs[idx] # (row, col)
+        return empty_sqrs[idx]
 
 
 
@@ -128,7 +128,7 @@ class AI:
 
 
         if case == 1:
-            return 1, None # eval, move
+            return 1, None
 
 
         if case == 2:
@@ -188,8 +188,8 @@ class Game:
     def __init__(self):
         self.board = Board()
         self.ai = AI()
-        self.player = 1   #1-cross  #2-circles
-        self.gamemode = 'ai' # pvp or ai
+        self.player = 1   
+        self.gamemode = 'ai' 
         self.running = True
         self.show_lines()
 
