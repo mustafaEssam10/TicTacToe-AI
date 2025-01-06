@@ -50,10 +50,12 @@ This is a Python-based Tic Tac Toe game that includes an AI opponent powered by 
    - Press `0` for AI with random moves, or `1` for AI with Minimax.
 
 ## Screenshots
-*(Add screenshots of the game interface here to showcase the GUI.)*
-![Screenshot 2025-01-06 065133](https://github.com/user-attachments/assets/734c1113-0355-45b4-b60c-c![Screenshot 2025-01-06 065143](https://github.com/user-attachments/assets/54437cbd-ae13-4c04-be16-0afcc9b696af)
-a2d033a0bb8)
-![Screenshot 2025-01-06 065159](https://github.com/user-attachments/assets/752f7641-b297-4bd1-8fe9-0940c5b7efb8)
+![Screenshot 2025-01-06 065133](https://github.com/user-attachments/assets/ea6d87bb-474e-44f1-b6cf-f5efd7797dce)
+
+![Screenshot 2025-01-06 065143](https://github.com/user-attachments/assets/88355427-73bc-4391-aadc-beb2f0bbeab4)
+
+![Screenshot 2025-01-06 065159](https://github.com/user-attachments/assets/43efe681-5b29-4226-9e15-326c1e896b5e)
+
 
 
 ## Future Enhancements
